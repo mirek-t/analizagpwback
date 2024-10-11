@@ -1,0 +1,20 @@
+# Ignorowanie środowiska wirtualnego
+venv/
+# Ignorowanie plików z konfiguracją edytora
+.idea/
+.vscode/
+# Ignorowanie plików systemowych
+.DS_Store
+Thumbs.db
+# Ignorowanie plików tymczasowych
+*.log
+*.tmp
+# Ignorowanie plików Pythona
+*.pyc
+__pycache__/
+# Ignorowanie katalogów
+data backup/
+
+*.log        # Ignoruj wszystkie pliki z rozszerzeniem .log
+*.tmp        # Ignoruj wszystkie pliki z rozszerzeniem .tmp
+*.exe
