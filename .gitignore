@@ -18,3 +18,7 @@ data backup/
 *.log        # Ignoruj wszystkie pliki z rozszerzeniem .log
 *.tmp        # Ignoruj wszystkie pliki z rozszerzeniem .tmp
 *.exe
+
+gpw_lista_spolek_*.txt
+gpw_lista_spolek_*.xlsx
+.history/
